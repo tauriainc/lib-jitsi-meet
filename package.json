@@ -29,7 +29,7 @@
     "lodash.isequal": "4.5.0",
     "patch-package": "6.5.1",
     "promise.allsettled": "1.0.4",
-    "sdp-transform": "2.3.0",
+    "sdp-transform": "2.14.1",
     "strophe.js": "1.5.0",
     "strophejs-plugin-disco": "0.0.2",
     "strophejs-plugin-stream-management": "git+https://github.com/jitsi/strophejs-plugin-stream-management#679be5902097ed612fb5062b5549f3f32b6f5f47",
